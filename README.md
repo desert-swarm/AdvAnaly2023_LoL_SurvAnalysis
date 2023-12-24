@@ -1,1 +1,1 @@
-Sorry about the messy codes, I will clean them soom.
+Sorry about the messy codes, I will clean them soon.
