@@ -1,1 +1,2 @@
-Sorry about the messy codes, I will clean them soon.
+TODO:
+The Python codes and Jupyter notebook need to be cleaned.
